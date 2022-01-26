@@ -1,3 +1,5 @@
+npm install
+
 const toReadable = (num) => {
     let result = ""
     let hundred = Math.floor(num / 100);
