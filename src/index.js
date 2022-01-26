@@ -46,5 +46,3 @@ function toReadable(num) {
 
     return result
 }
-
-console.log(toReadable(8))
